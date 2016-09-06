@@ -18,7 +18,6 @@ def test():
 
 
 
-
     fu = open('user.json','w')
     fq = open('question.json', 'w')
     userDict = {}
